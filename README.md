@@ -1,0 +1,2 @@
+# An Extraction-based Stroke Matching Method for Handwritten Chinese Characters 
+This repository contains the implementation for the paper "An Extraction-based Stroke Matching Method for Handwritten Chinese Characters", presented at the 36^th^ IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP). For more details, please refer to the [paper](./paper.pdf).
