@@ -1,6 +1,5 @@
 # An Extraction-based Stroke Matching Method for Handwritten Chinese Characters 
 This repository contains the implementation in Matlab for the paper **"*An Extraction-based Stroke Matching Method for Handwritten Chinese Characters*"**, presented at the **36<sup>th</sup> IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP)**. For more details, please refer to the [paper](./paper.pdf).
-
 (CVGIP participation cert: https://drive.google.com/file/d/14gNYOfHXa89Q_nVReZ-uK4wJxKuqmGiX/view?usp=sharing)
 
 Abstract: 
